@@ -1,0 +1,1 @@
+if ./intmain.out; then echo trueee; else echo falseeee; fi
